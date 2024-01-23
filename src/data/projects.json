@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Html", "css", "javascript"],
+    "demo": "https://amarbadiger.github.io/Weather-App/",
+    "source": "https://github.com/Amarbadiger/Weather-App"
+  },
+  {
+    "title": "Todo List",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Html", "css", "javascript"],
+    "demo": "https://amarbadiger.github.io/simple-do-list/",
+    "source": "https://github.com/Amarbadiger/simple-do-list"
+  },
+  {
+    "title": "Age Calculator",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Html", "css", "javascript"],
+    "demo": "https://amarbadiger.github.io/age-calculator/",
+    "source": "https://github.com/Amarbadiger/age-calculator"
+  }
+]
