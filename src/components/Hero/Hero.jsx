@@ -7,9 +7,9 @@ const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Amar</h1>
         <p className={styles.description}>
-          I'm a full stack developer completed the basis of front-end
-          development HTML,CSS,javascript,React js and node js deepning my
-          skills in React and node js
+          Enthusiastic fresher MERN stack developer skilled in HTML, CSS, and
+          JavaScript, with decent proficiency in React.js. Actively enhancing
+          expertise in Node.js, Express, and MongoDB.
         </p>
         <a href="mailto:amarbadiger45@gmail.com" className={styles.contactBtn}>
           Contact Me
