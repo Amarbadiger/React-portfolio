@@ -4,7 +4,6 @@
   color: var(--color-text);
   margin-left: 10%;
   margin-right: 10%;
-  height: 80vh;
 }
 .title {
   font-size: 35px;
@@ -22,3 +21,10 @@
   gap: 55px;
   width: 100%;
 }
+/* @media screen and (max-width: 830px) {
+  .container {
+    flex-direction: column;
+    gap: 23px;
+    width: 100%;
+  }
+} */
